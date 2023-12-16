@@ -1,0 +1,2 @@
+# Soporte LV2 #316
+ Este PR agrega soporte básico LV2 a Mixxx. Se integra perfectamente con nuestro marco de efectos actual. Simplemente instale un complemento LV2 y aparecerá cuando recorra los efectos.  Actualmente solo admite complementos que manejan muestras de audio de entrada/salida estéreo y no requieren ninguna característica adicional. Algunos complementos que probé: Calf Phaser, Calf Flanger, SWH Karaoke.
